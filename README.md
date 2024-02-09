@@ -3,5 +3,8 @@
 원하는 사이즈의 게임판을 설정합니다.
 
 
+
+
 ![image](https://github.com/GarbageCode1984/mines_weeper/assets/75023330/1950cd76-9328-4326-82d7-4fd3cec2c7db)
+
 Good Game!
